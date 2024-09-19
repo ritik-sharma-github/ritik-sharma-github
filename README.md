@@ -7,10 +7,9 @@
 
 ---
 
-## 🧑‍💻 **About Me**  
-I am a dedicated and results-driven data science enthusiast, passionate about deriving insights from data and building predictive models that drive decision-making. I have hands-on experience with **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Quantum Neural Networks**. My expertise spans across a variety of domains including **energy optimization**, **healthcare**, and **predictive modeling**.
+## 👋 **About Me**  
+I am a dedicated and forward-thinking **Data Science Enthusiast** with extensive experience in **machine learning**, **predictive modeling**, and **data visualization**. My journey includes developing advanced ML models, enhancing energy systems with **Quantum Neural Networks**, and creating innovative solutions in **healthcare** and **finance**. I am passionate about leveraging data to drive impactful insights and enjoy collaborating on open-source projects to push the boundaries of technology and data science.
 
----
 
 ## 🎓 **Education**  
 - **M.Sc. in Data Science**  
