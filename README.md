@@ -29,7 +29,7 @@ Here are some of my key projects:
   *June-July 2024*  
   - Developed hybrid classical and quantum techniques for energy optimization.  
   - Enhanced predictive modeling for air outlet temperature.  
-  - [View Project](#)
+  - [View Project](https://github.com/ritik-sharma-github/Optimization-of-Dehumidification-Process-Using-Quantum-Neural-Networks)
 
 - **DiagnoChat: Real-Time Multimodal Health Diagnostics**  
   *April 2024*  
