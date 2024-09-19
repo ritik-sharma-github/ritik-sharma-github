@@ -12,6 +12,7 @@ I am a dedicated and forward-thinking **Data Science Enthusiast** with extensive
 
 
 ## 🎓 **Education**  
+
 - **M.Sc. in Data Science**  
   Vellore Institute of Technology, Vellore  
   *2023 - 2025* | **CGPA:** 9.16/10
@@ -23,7 +24,6 @@ I am a dedicated and forward-thinking **Data Science Enthusiast** with extensive
 ---
 
 ## 🔬 **Projects**  
-Here are some of my key projects:
 
 - **Optimization of Dehumidification Process Using Quantum Neural Networks**  
   *June-July 2024*  
@@ -81,18 +81,21 @@ Here are some of my key projects:
 
 ## 🌟 **Certificates**
 
-- **Data Analytics Essentials**  
+- **[Data Analytics Essentials](https://drive.google.com/file/d/1YERA8HUlyQ1pRUIvm9d-WeI6ciefeg6n/view?usp=sharing)**  
   *CISCO Networking Academy | August 2024*  
-  - Developed skills in data visualization and analysis using **Excel**, **SQL**, and **Tableau**.
+  Developed skills in **data visualization** and **analysis** using Excel, SQL, and Tableau.
 
-- **Data Analysis with Python**  
+- **[Data Analysis with Python](https://www.freecodecamp.org/certification/your-username/data-analysis-with-python)**  
   *Freecodecamp.org | March 2024*  
-  - Gained hands-on experience in data cleaning and visualization using Python.  
+  Gained hands-on experience in **data cleaning** and **visualization** using Python.
 
-- **Introduction to Python for Meta Analysis of Data**  
+- **[R Package Dplyr (Grammar of Manipulation)](https://drive.google.com/file/d/1cdMFS23fGSbbjUyzT7b7WD3TRzWY0E0x/view?usp=sharing)**  
+  *College of Management Studies, New Delhi | March 2022*  
+  Utilized R’s dplyr package for **data manipulation** and transformation.
+
+- **[Introduction to Python for Meta Analysis of Data](https://drive.google.com/file/d/1DhPQS_af-GE8cZzctxg0q9OJ0pUBzCjv/view?usp=sharing)**  
   *Zakir Husain Delhi College | May 2022*  
-  - Applied Python for meta-analysis on complex datasets.
-
+  Applied Python for **meta-analysis** on complex datasets.
 
 ---
 
@@ -102,10 +105,3 @@ Here are some of my key projects:
   University of Delhi, 2023
 
 ---
-
-## 📬 **Let's Connect**  
-I’m always open to networking and collaboration. Feel free to reach out to me via email or LinkedIn for discussions on data science, machine learning, and research opportunities.
-
----
-
-This structure presents your profile in a clean and professional format while emphasizing your skills, experience, and achievements. You can add more sections, such as "Publications" or "Research Interests," depending on how you want to showcase your work.
