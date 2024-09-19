@@ -35,19 +35,19 @@ Here are some of my key projects:
   *April 2024*  
   - Built a real-time platform for disease diagnosis using **ML** and **NLP**.  
   - Implemented Bernoulli Naive Bayes for accurate prediction of diseases.  
-  - [View Project](#)
+  - [View Project](https://github.com/ritik-sharma-github/DiagnoChat-A-Multimodal-Approach-to-Accessible-Healthcare-and-Real-Time-Disease-Diagnosis)
 
 - **Electric Vehicle Market Analysis and Future Projections**  
   *April 2024*  
   - Applied **Polynomial Regression** and **ARIMA** models to forecast EV production trends.  
   - Created interactive dashboards for strategic planning insights.  
-  - [View Project](#)
+  - [View Project](https://github.com/ritik-sharma-github/Electric-Vehicle-Market-Analysis-and-Future-Projections)
 
 - **Grape Leaf Disease Classification Using Vision Transformer and MobileNetV2**  
   *February 2024*  
   - Developed a deep learning model integrating **Vision Transformer** and **MobileNetV2**.  
   - Improved disease detection using advanced augmentation techniques.  
-  - [View Project](#)
+  - [View Project](https://github.com/ritik-sharma-github/Grape-Leaf-Disease-Classification-Using-Vision-Transformer-and-MobileNetV2)
 
 ---
 
@@ -56,17 +56,17 @@ Here are some of my key projects:
   *June-July 2024*  
   - Optimized the dehumidification process using **Quantum Neural Networks**.  
   - Conducted data analysis, preprocessing, and energy optimization modeling.  
-  - [View Details](#)
+  - [View Details](https://drive.google.com/file/d/1DSn1h27_Jhz7CY99HiOukpy5FkTfJzil/view?usp=sharing)
 
 - **Data Science Virtual Internship - UNIFIED MENTOR, AICTE-Eduskills**  
   *March-April 2024*  
   - Built and deployed machine learning models for real-world business applications.  
-  - [View Details](#)
+  - [View Details](https://drive.google.com/file/d/1jTQnz7Gtx6esrjFPFEt_v3CfeBTrm-nh/view?usp=sharing)
 
 - **AI/ML Virtual Internship - SystemTron**  
   *January-February 2024*  
   - Developed ML models for business metrics prediction, enhancing predictive accuracy.  
-  - [View Details](#)
+  - [View Details](https://drive.google.com/file/d/1xeHjeeK730Nk5iHL0b70N2F0tPSwjBiN/view?usp=sharing)
 
 ---
 
@@ -93,12 +93,6 @@ Here are some of my key projects:
   *Zakir Husain Delhi College | May 2022*  
   - Applied Python for meta-analysis on complex datasets.
 
----
-
-## 📚 **Recent Publications**  
-- **"Energy Optimization using Quantum Neural Networks"**  
-  *Co-authored research paper submitted to [Journal of Energy Systems](#)*  
-  - Describes the application of QNNs for improving energy efficiency in dehumidification systems.
 
 ---
 
