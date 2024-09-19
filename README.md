@@ -1,4 +1,5 @@
-# 🚀 **Ritik Sharma | Data Science Enthusiast & Innovative Problem Solver** 📊
+# 🚀 **Ritik Sharma** 
+#     **| Data Science Enthusiast & Innovative Problem Solver** 📊
 
 🎓 **M.Sc. Data Science** | Vellore Institute of Technology, Vellore  
 📧 **Email:** sharmaritik6846@gmail.com  
