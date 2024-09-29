@@ -9,7 +9,7 @@
 ---
 
 ## 👋 **About Me**  
-I am a dedicated and forward-thinking **Data Science Enthusiast** with extensive experience in **machine learning**, **predictive modeling**, and **data visualization**. My journey includes developing advanced ML models, enhancing energy systems with **Quantum Neural Networks**, and creating innovative solutions in **healthcare** and **finance**. I am passionate about leveraging data to drive impactful insights and enjoy collaborating on open-source projects to push the boundaries of technology and data science.
+I am a dedicated and forward-thinking **Data Science Enthusiast** with extensive experience in **Machine Learning**, **Deep Learning**, **NLP**, **Time Series Analysis**, **Power BI**, **SQL**,**Regression Analysis**, **predictive modeling**, and **data visualization**. My journey includes developing advanced ML models, enhancing energy systems with **Quantum Neural Networks**, and creating innovative solutions in **healthcare** and **finance**. I am passionate about leveraging data to drive impactful insights and enjoy collaborating on open-source projects to push the boundaries of technology and data science.
 
 
 ## 🎓 **Education**  
