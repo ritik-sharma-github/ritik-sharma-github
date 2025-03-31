@@ -16,7 +16,7 @@ I am a dedicated and forward-thinking **Data Science Enthusiast** with extensive
 
 - **M.Sc. in Data Science**  
   Vellore Institute of Technology, Vellore  
-  *2023 - 2025* | **CGPA:** 9.16/10
+  *2023 - 2025* | **CGPA:** 9.41/10
   
 - **B.Sc. (Honors) in Mathematics**  
   University of Delhi, New Delhi  
@@ -52,7 +52,13 @@ I am a dedicated and forward-thinking **Data Science Enthusiast** with extensive
 
 ---
 
-## 💼 **Internship Experience**  
+## 💼 **Experience**  
+- **Data Analyst - Aurassure Pvt. Ltd., Bhubaneswar, Odisha**  
+  *Oct 2024 - now*  
+  - Developed SQ queries in BigQuery(GCP) to aggregate and analyze environmental sensor data.
+  - Developed dynamic dashboards with streamlit, Django, PlotlyDash, Panel for environmental monitoring, enabling parameter-specific analysis and anomaly detection.
+  - Working with LLM Models like Gemini, Llama 3.3, BERT to create AI agent (Chatbot) that gives the description based on the user prompt related to environment data.
+
 - **Summer Internship - National Institute of Technology, Rourkela**  
   *June-July 2024*  
   - Optimized the dehumidification process using **Quantum Neural Networks**.  
@@ -63,11 +69,6 @@ I am a dedicated and forward-thinking **Data Science Enthusiast** with extensive
   *March-April 2024*  
   - Built and deployed machine learning models for real-world business applications.  
   - [View Details](https://drive.google.com/file/d/1jTQnz7Gtx6esrjFPFEt_v3CfeBTrm-nh/view?usp=sharing)
-
-- **AI/ML Virtual Internship - SystemTron**  
-  *January-February 2024*  
-  - Developed ML models for business metrics prediction, enhancing predictive accuracy.  
-  - [View Details](https://drive.google.com/file/d/1xeHjeeK730Nk5iHL0b70N2F0tPSwjBiN/view?usp=sharing)
 
 ---
 
